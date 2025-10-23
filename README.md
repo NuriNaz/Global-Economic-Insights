@@ -247,12 +247,12 @@ Countries achieving **high growth with low unemployment** reflect successful fis
 ✅ Business-ready insights that narrate the story of the global economy  
 
 ---## 📸 Dashboard Preview  
-🔗 **Dashboard Screenshot** → [View Here]([https://screenrec.com/share/BWOPsl2moI](https://screenrec.com/share/j6Pp0esWRE))  ,
+🔗 **Dashboard Screenshot** → https://screenrec.com/share/BWOPsl2moI](https://screenrec.com/share/j6Pp0esWRE  
  https://screenrec.com/share/ZqWJ5aVNlG
  https://screenrec.com/share/ZSnlx6Xfu1
 🔗 **SQL Queries Verification (Screen Recording)** → [Watch Here](https://screenrec.com/share/O39SYTxgJp)  
-
- To view the working **Power BI Dashboard (.pbit file)**:  
+download dataset from Kaggle https://www.kaggle.com/datasets
+To view the working **Power BI Dashboard (.pbit file)**:  
 - Go to the repository → Click on the `.pbit` file → Select **View Raw** → It will download automatically after that you can open it in your power bi desktop
 - for the dataset you can get from kaggle 
 
