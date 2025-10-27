@@ -25,7 +25,7 @@ The final dashboard gives a **global snapshot** of economic health, helping user
 
 ##  Tools & Technologies  
 
-| Stage | Tool | Purpose |
+| Tool | Purpose |
 |--------|------|----------|
 |  **Python (Pandas, NumPy)** | Data cleaning & preparation |
 |  **SQL Server** | Querying, aggregations & insights |
@@ -247,7 +247,7 @@ Countries achieving **high growth with low unemployment** reflect successful fis
 ✅ Business-ready insights that narrate the story of the global economy  
 
 ---## 📸 Dashboard Preview  
-🔗 **Dashboard Screenshot** → https://screenrec.com/share/BWOPsl2moI
+🔗 **Dashboard Screenshot** →
 https://screenrec.com/share/j6Pp0esWRE  
  https://screenrec.com/share/ZqWJ5aVNlG
  https://screenrec.com/share/ZSnlx6Xfu1
