@@ -247,7 +247,8 @@ Countries achieving **high growth with low unemployment** reflect successful fis
 ✅ Business-ready insights that narrate the story of the global economy  
 
 ---## 📸 Dashboard Preview  
-🔗 **Dashboard Screenshot** → https://screenrec.com/share/BWOPsl2moI](https://screenrec.com/share/j6Pp0esWRE  
+🔗 **Dashboard Screenshot** → https://screenrec.com/share/BWOPsl2moI
+https://screenrec.com/share/j6Pp0esWRE  
  https://screenrec.com/share/ZqWJ5aVNlG
  https://screenrec.com/share/ZSnlx6Xfu1
 🔗 **SQL Queries Verification (Screen Recording)** → [Watch Here](https://screenrec.com/share/O39SYTxgJp)  
