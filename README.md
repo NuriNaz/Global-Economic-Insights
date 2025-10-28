@@ -23,13 +23,13 @@ The final dashboard gives a **global snapshot** of economic health, helping user
 
 ---
 
-##  Tools & Technologies  
+## Tools & Technologies
 
-| Tool | Purpose |
-|--------|------|----------|
-|  **Python (Pandas, NumPy)** | Data cleaning & preparation |
-|  **SQL Server** | Querying, aggregations & insights |
-|  **DAX in Power BI** | KPI and measure creation |
+| **Tool** | **Purpose** |
+|-----------|-------------|
+| **Python (Pandas, NumPy)** | Data cleaning & preparation |
+| **SQL Server** | Querying, aggregations & insights |
+| **DAX in Power BI** | KPI and measure creation |
 | **Power BI Desktop** | Interactive visualization |
 | **GitHub** | Version control & portfolio showcase |
 
